@@ -35,8 +35,6 @@ Vite.js: Lightning-fast frontend development
 
 
 📂 Project Structure : ( our focus here was to build a solid backend architecture . Unfortunately , we've got caught up in this part and didn't find the time to begin the frontend , which we're beginning to work on ........) :
-
-
 backend/
 │
 ├── node_modules/
